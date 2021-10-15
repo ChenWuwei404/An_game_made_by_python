@@ -1,2 +1,1 @@
-# An_game_made_by_python
-It is about Yuchen
+乱斗三国 - python game
